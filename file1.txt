@@ -1,7 +1,4 @@
 hello how are u ??
 i am good
-<<<<<<< HEAD
 what about you
-=======
 and you 
->>>>>>> delhi
